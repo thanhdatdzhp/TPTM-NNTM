@@ -337,7 +337,7 @@ Trong tương lai hệ thống có thể mở rộng:
 
 # 13. Tác giả
 
-**Ngô Thành Đạt**
+**Ngô Thành Đạt**  
 **MSV:** 1671020081
 **Khoa Công nghệ Thông tin - Trường Đại học Đại Nam**
 
