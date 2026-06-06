@@ -95,6 +95,6 @@ Mô hình có thể được mở rộng trong tương lai để:
 
 ## 6. Tác giả
 
-**Ngô Thành Đạt**
-**MSV:** 1671020081
+**Ngô Thành Đạt**  
+**MSV:** 1671020081  
 **Khoa Công nghệ Thông tin - Trường Đại học Đại Nam**
