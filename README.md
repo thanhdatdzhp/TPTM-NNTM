@@ -1,4 +1,22 @@
-# README
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+
+<h2 align="center">
+    🐄 HỆ THỐNG THEO DÕI VÀ THÔNG BÁO VỊ TRÍ XE BUÝT THEO THỜI GIAN THỰC
+</h2>
+
+<div align="center">
+    <p align="center">
+        <img alt="AIoTLab Logo" width="170" src="https://github.com/user-attachments/assets/711a2cd8-7eb4-4dae-9d90-12c0a0a208a2" />
+        <img alt="AIoTLab Logo" width="180" src="https://github.com/user-attachments/assets/dc2ef2b8-9a70-4cfa-9b4b-f6c2f25f1660" />
+        <img alt="DaiNam University Logo" width="200" src="https://github.com/user-attachments/assets/77fe0fd1-2e55-4032-be3c-b1a705a1b574" />
+    </p>
+
+
+</div>
 
 # HỆ THỐNG THEO DÕI VÀ THÔNG BÁO VỊ TRÍ XE BUÝT THEO THỜI GIAN THỰC
 
